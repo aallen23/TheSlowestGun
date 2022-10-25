@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7b224487945f43c4fa62c96f812180f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tracking: {instanceID: 0}
+  - goopPuddle: {fileID: 4859964190882778026, guid: ff21b672df6aa6849905c559540290fa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
